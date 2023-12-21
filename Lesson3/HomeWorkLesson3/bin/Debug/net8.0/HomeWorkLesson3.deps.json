@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HomeWorkLesson3/1.0.0": {
+        "runtime": {
+          "HomeWorkLesson3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeWorkLesson3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

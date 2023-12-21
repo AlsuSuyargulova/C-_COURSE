@@ -1,0 +1,4 @@
+/Users/alsu/Desktop/C#_course/Lesson1/obj/Debug/net8.0/Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alsu/Desktop/C#_course/Lesson1/obj/Debug/net8.0/Lesson1.AssemblyInfoInputs.cache
+/Users/alsu/Desktop/C#_course/Lesson1/obj/Debug/net8.0/Lesson1.AssemblyInfo.cs
+/Users/alsu/Desktop/C#_course/Lesson1/obj/Debug/net8.0/Lesson1.csproj.CoreCompileInputs.cache

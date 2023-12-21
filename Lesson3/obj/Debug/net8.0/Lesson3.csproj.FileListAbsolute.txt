@@ -1,0 +1,14 @@
+/Users/alsu/Desktop/C#_course/Lesson3/bin/Debug/net8.0/Lesson3
+/Users/alsu/Desktop/C#_course/Lesson3/bin/Debug/net8.0/Lesson3.deps.json
+/Users/alsu/Desktop/C#_course/Lesson3/bin/Debug/net8.0/Lesson3.runtimeconfig.json
+/Users/alsu/Desktop/C#_course/Lesson3/bin/Debug/net8.0/Lesson3.dll
+/Users/alsu/Desktop/C#_course/Lesson3/bin/Debug/net8.0/Lesson3.pdb
+/Users/alsu/Desktop/C#_course/Lesson3/obj/Debug/net8.0/Lesson3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alsu/Desktop/C#_course/Lesson3/obj/Debug/net8.0/Lesson3.AssemblyInfoInputs.cache
+/Users/alsu/Desktop/C#_course/Lesson3/obj/Debug/net8.0/Lesson3.AssemblyInfo.cs
+/Users/alsu/Desktop/C#_course/Lesson3/obj/Debug/net8.0/Lesson3.csproj.CoreCompileInputs.cache
+/Users/alsu/Desktop/C#_course/Lesson3/obj/Debug/net8.0/Lesson3.dll
+/Users/alsu/Desktop/C#_course/Lesson3/obj/Debug/net8.0/refint/Lesson3.dll
+/Users/alsu/Desktop/C#_course/Lesson3/obj/Debug/net8.0/Lesson3.pdb
+/Users/alsu/Desktop/C#_course/Lesson3/obj/Debug/net8.0/Lesson3.genruntimeconfig.cache
+/Users/alsu/Desktop/C#_course/Lesson3/obj/Debug/net8.0/ref/Lesson3.dll

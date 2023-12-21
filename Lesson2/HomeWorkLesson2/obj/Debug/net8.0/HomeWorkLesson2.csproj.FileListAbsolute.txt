@@ -1,0 +1,14 @@
+/Users/alsu/Desktop/C#_course/Lesson2/HomeWorkLesson2/bin/Debug/net8.0/HomeWorkLesson2
+/Users/alsu/Desktop/C#_course/Lesson2/HomeWorkLesson2/bin/Debug/net8.0/HomeWorkLesson2.deps.json
+/Users/alsu/Desktop/C#_course/Lesson2/HomeWorkLesson2/bin/Debug/net8.0/HomeWorkLesson2.runtimeconfig.json
+/Users/alsu/Desktop/C#_course/Lesson2/HomeWorkLesson2/bin/Debug/net8.0/HomeWorkLesson2.dll
+/Users/alsu/Desktop/C#_course/Lesson2/HomeWorkLesson2/bin/Debug/net8.0/HomeWorkLesson2.pdb
+/Users/alsu/Desktop/C#_course/Lesson2/HomeWorkLesson2/obj/Debug/net8.0/HomeWorkLesson2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alsu/Desktop/C#_course/Lesson2/HomeWorkLesson2/obj/Debug/net8.0/HomeWorkLesson2.AssemblyInfoInputs.cache
+/Users/alsu/Desktop/C#_course/Lesson2/HomeWorkLesson2/obj/Debug/net8.0/HomeWorkLesson2.AssemblyInfo.cs
+/Users/alsu/Desktop/C#_course/Lesson2/HomeWorkLesson2/obj/Debug/net8.0/HomeWorkLesson2.csproj.CoreCompileInputs.cache
+/Users/alsu/Desktop/C#_course/Lesson2/HomeWorkLesson2/obj/Debug/net8.0/HomeWorkLesson2.dll
+/Users/alsu/Desktop/C#_course/Lesson2/HomeWorkLesson2/obj/Debug/net8.0/refint/HomeWorkLesson2.dll
+/Users/alsu/Desktop/C#_course/Lesson2/HomeWorkLesson2/obj/Debug/net8.0/HomeWorkLesson2.pdb
+/Users/alsu/Desktop/C#_course/Lesson2/HomeWorkLesson2/obj/Debug/net8.0/HomeWorkLesson2.genruntimeconfig.cache
+/Users/alsu/Desktop/C#_course/Lesson2/HomeWorkLesson2/obj/Debug/net8.0/ref/HomeWorkLesson2.dll
