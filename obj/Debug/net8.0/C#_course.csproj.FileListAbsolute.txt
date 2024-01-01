@@ -12,3 +12,11 @@
 /Users/alsu/Desktop/C#_course/obj/Debug/net8.0/C#_course.pdb
 /Users/alsu/Desktop/C#_course/obj/Debug/net8.0/C#_course.genruntimeconfig.cache
 /Users/alsu/Desktop/C#_course/obj/Debug/net8.0/ref/C#_course.dll
+/Users/alsu/Desktop/Знакомство с языками программирования/C#_course/obj/Debug/net8.0/C#_course.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alsu/Desktop/Знакомство с языками программирования/C#_course/obj/Debug/net8.0/C#_course.AssemblyInfoInputs.cache
+/Users/alsu/Desktop/Знакомство с языками программирования/C#_course/obj/Debug/net8.0/C#_course.AssemblyInfo.cs
+/Users/alsu/Desktop/Знакомство с языками программирования/C#_course/obj/Debug/net8.0/C#_course.csproj.CoreCompileInputs.cache
+/Users/alsu/Desktop/Знакомство с языками программирования/C#_course/obj/Debug/net8.0/C#_course.sourcelink.json
+/Users/alsu/Desktop/Знакомство с языками программирования/C#_course/obj/Debug/net8.0/C#_course.dll
+/Users/alsu/Desktop/Знакомство с языками программирования/C#_course/obj/Debug/net8.0/refint/C#_course.dll
+/Users/alsu/Desktop/Знакомство с языками программирования/C#_course/obj/Debug/net8.0/C#_course.pdb
