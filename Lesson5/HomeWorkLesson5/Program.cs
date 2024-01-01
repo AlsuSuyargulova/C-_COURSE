@@ -48,7 +48,6 @@
 // {
 //     static void Main()
 //     {
-//         // Создаем двумерный массив
 //         int[,] array = {
 //             {1, 2, 3},
 //             {4, 5, 6},
@@ -58,7 +57,6 @@
 //         Console.WriteLine("Исходный массив:");
 //         PrintArray(array);
 
-//         // Меняем местами первую и последнюю строку
 //         SwapRows(array, 0, array.GetLength(0) - 1);
 
 //         Console.WriteLine("Массив после замены строк:");
@@ -98,35 +96,27 @@
 // Напишите программу, которая будет находить строку с наименьшей суммой элементов.
 
 using System;
-
 class Program
 {
     static void Main()
     {
-        // Создаем прямоугольный двумерный массив
         int[,] array = {
             {1, 2, 3},
             {4, 5, -6},
             {7, -8, 9},
             {-1, -2, -3}
         };
-
         Console.WriteLine("Исходный массив:");
         PrintArray(array);
-
-        // Находим строку с наименьшей суммой элементов
         int minRow = FindMinRow(array);
-
         Console.WriteLine("Строка с наименьшей суммой элементов: {0}", minRow);
     }
-
     static int FindMinRow(int[,] array)
     {
         int rows = array.GetLength(0);
         int columns = array.GetLength(1);
         int minRow = 0;
-        int minSum = int.MaxValue; // Инициализируем минимальную сумму максимальным значением int
-
+        int minSum = int.MaxValue;
         for (int i = 0; i < rows; i++)
         {
             int sum = 0;
@@ -145,7 +135,6 @@ class Program
 
         return minRow;
     }
-
     static void PrintArray(int[,] array)
     {
         int rows = array.GetLength(0);
